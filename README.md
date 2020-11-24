@@ -2,6 +2,8 @@
 
 This assignment was completed in Postgres. 
 
+Objectives of this assignment included creating a ERD of the data, querying the data and performing subqueries. 
+
 #### Data Modeling
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
