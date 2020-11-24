@@ -1,6 +1,6 @@
 # sql-challenge
 
-The instructions for this homework assignment
+This assignment was completed in Postgres. 
 
 #### Data Modeling
 
